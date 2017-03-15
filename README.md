@@ -1,4 +1,6 @@
 # Demo JenkinsCI
+ok, run now    
+
 demo,    
 run now    
 check before demo...     

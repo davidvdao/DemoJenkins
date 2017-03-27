@@ -1,4 +1,5 @@
 # Demo JenkinsCI
+rain rain    
 ok, run now    
 
 demo,    
